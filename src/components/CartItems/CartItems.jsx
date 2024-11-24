@@ -7,7 +7,7 @@ import all_product from "../Assets/all_product";
 const CartItems = () => {
   const { getTotalCartAmount, all_product, cartItems, removeFromCart } =
     useContext(ShopContext);
-  console.log(getTotalCartAmount());
+  // console.log(getTotalCartAmount());
   return (
     <div className="cart-items">
       <div className="cart-items-format-main">

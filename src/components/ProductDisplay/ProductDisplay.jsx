@@ -35,7 +35,7 @@ const ProductDisplay = (props) => {
             <div className="product-display-price-new">${product.new_price}</div>
         </div>
         <div className="product-display-right-description">
-        Introducing our exquisite collection of tops for women, designed to elevate your style and inspire confidence. Crafted with meticulous attention to detail, these tops showcase a perfect blend of fashion-forward trends and timeless elegance. Each piece is made from premium quality fabrics, ensuring a comfortable and luxurious feel against your skin. From vibrant prints to sophisticated solids, our tops offer versatility for any occasion. Whether you're dressing up for a special event or seeking everyday chicness, our tops effortlessly enhance your wardrobe. With their flattering cuts and impeccable fit, they effortlessly flatter your silhouette. Embrace fashion excellence and redefine your wardrobe with our stunning range of women's tops.
+        Introducing our exquisite collection of tops for women, designed to elevate your style and inspire confidence. Crafted with meticulous attention to detail, these tops showcase a perfect blend of fashion-forward trends and timeless elegance. Each piece is made from premium quality fabrics, ensuring a comfortable and luxurious feel against your skin. From vibrant prints to sophisticated solids, our tops offer versatility for any occasion.
         </div>
         <div className="product-display-right-selectsize">
             <h1>Select Size</h1>
